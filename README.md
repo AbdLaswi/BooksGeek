@@ -13,10 +13,11 @@
  * You can review the books, share your opinions about them, and discuss them with others who are interested in the topics you read.
  * Publish your book if you are an author and receive reviews on it.
 
- ## Requirement
- * Node.js with express framework
+ ## Technologies
  * Mysql
- * ReactJS
+ * Node.js with express framework
+ * React-Hooks
+ * CSS, SASS, BootStrap
  * Socket io
 
  ## Start with the app
